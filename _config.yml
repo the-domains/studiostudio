@@ -1,0 +1,28 @@
+name: studiostudio
+favicon: null
+layout_spectrum: 0.2717146729119122
+typography_spectrum: 0.2839260383043438
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.15119451470673084
+  lightness: 0.6659012257587165
+  saturation: 0.9150827021803707
+  rhythmicContrast: 0.2520983573049307
+purpose: []
